@@ -20,3 +20,7 @@ form {
 h2 {
   text-align: center;
 }
+
+footer nav.newsletter form input[type="email"]:invalid {
+  background-color: red;
+}
