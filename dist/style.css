@@ -43,8 +43,9 @@ header a:visited {
 body {
   background-image: url("https://news.virginia.edu/sites/default/files/styles/uva_basic_article/public/article_image/iss_nasa_header.jpg?itok=6d9ckZBu");
   background-size: auto;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   font-family: "Open Sans", sans-serif;
+  
 }
 
 .left {
